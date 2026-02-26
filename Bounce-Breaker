@@ -2,8 +2,8 @@
 // @name         Bounce Breaker
 // @version      1.0
 // @description  Auto-detect transfers via API when entering a case — no need to click Case Details
-// @updateURL    https://raw.githubusercontent.com/vregla/transfer-route/main/transfer-route.user.js
-// @downloadURL  https://raw.githubusercontent.com/vregla/transfer-route/main/transfer-route.user.js
+// @updateURL    https://raw.githubusercontent.com/vregla/Bounce-Breaker/main/Bounce-Breaker.user.js
+// @downloadURL  https://raw.githubusercontent.com/vregla/Bounce-Breaker/main/Bounce-Breaker.user.js
 // @match        https://optimus-internal-eu.amazon.com/wims/*
 // @grant        none
 // ==/UserScript==
